@@ -23,6 +23,9 @@
   </Class>
   <Class Name="ZH1.TréMedve">
     <Position X="7" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
       <FileName>TréMedve.cs</FileName>
@@ -66,7 +69,7 @@
   <Class Name="ZH1.Verseny">
     <Position X="4.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAAAAIAAAAAAA=</HashCode>
+      <HashCode>AAAAAQAABCAAAAAAAACAAAAAAQAAAAAAAAAIAAACACA=</HashCode>
       <FileName>Verseny.cs</FileName>
     </TypeIdentifier>
   </Class>

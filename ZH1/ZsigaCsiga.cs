@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ZH1
 {
-    public class ZsigaCsiga : Verseny
+    public class ZsigaCsiga : TréMedve
     {
         public void Lelassul()
         {

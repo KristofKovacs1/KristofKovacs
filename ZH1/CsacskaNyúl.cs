@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ZH1
 {
-    public class CsacskaNyúl : Verseny
+    public class CsacskaNyúl : TréMedve
     {
         public void Felgyorsul()
         {
